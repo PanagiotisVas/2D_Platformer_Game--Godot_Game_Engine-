@@ -77,7 +77,7 @@ In addition to the core requirements above, the project was expanded with the fo
 ### 🎵 Audio Assets Setup
 Due to GitHub file size limits, the high-quality audio files are hosted externally.
 
-1. **Download** the music assets from this link: `https://drive.google.com/uc?export=download&id=1EfOm-iECbhXDjUdZjLrLSWY-0tkQq2R8`
+1. **Download** the music assets from this link: [https://drive.google.com/uc?export=download&id=1EfOm-iECbhXDjUdZjLrLSWY-0tkQq2R8]
 2. **Extract** the contents of the zip file.
 3. **Place** the extracted folder into the root folder of the project. Make sure the name of the folder is `audio`
 
