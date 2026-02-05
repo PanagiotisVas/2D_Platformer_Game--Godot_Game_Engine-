@@ -2,7 +2,7 @@
 
 This document summarizes the steps and functionalities implemented for the creation of a small 2D game using the Godot Engine.
 
-## 🎮 Exercise 1: Creating a Small 2D Game
+## 🎮 Creating a Small 2D Game
 
 ### 1. Level Design
 * Created a `Main.tscn` scene which includes a **TileMap**.
@@ -67,8 +67,18 @@ Input actions were defined using the Godot Input Map.
 
 ---
 
-## 🚀 Exercise 2: Extensions
+## 🚀 Extensions
 
 In addition to the core requirements above, the project was expanded with the following polish:
 
 * **Advanced Player Animation:** A fourth animation state was added to the character controller. The player now features a distinct sprite for **Falling**, separate from the **Jumping** (ascending) animation, providing smoother visual feedback.
+
+
+### 🎵 Audio Assets Setup
+Due to GitHub file size limits, the high-quality audio files are hosted externally.
+
+1. **Download** the music assets from this link: `https://drive.google.com/uc?export=download&id=1EfOm-iECbhXDjUdZjLrLSWY-0tkQq2R8`
+2. **Extract** the contents of the zip file.
+3. **Place** the extracted folder into the root folder of the project. Make sure the name of the folder is `audio`
+
+*Note: The game will run without these files, but will have no audio.*
