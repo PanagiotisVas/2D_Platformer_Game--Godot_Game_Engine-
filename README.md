@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![University](https://img.shields.io/badge/Context-University%20Project-blue)
-![Tech](https://img.shields.io/badge/Tech-GDScript%20%7C%20Spark%20%7C%20Godot%20%Game%20%Engine-orange)
+![Tech](https://img.shields.io/badge/Tech-GDScript%20%7C%20Spark%20%7C%20Godot%20Game%20Engine-orange)
 
 **University of Patras - CEID**
 **Course:** Game Development
