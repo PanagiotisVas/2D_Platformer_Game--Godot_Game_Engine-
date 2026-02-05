@@ -1,4 +1,4 @@
-# 2D Platformer Game (Godot Engine)
+# 2D Platformer Game (Godot Game Engine)
 
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![University](https://img.shields.io/badge/Context-University%20Project-blue)
